@@ -27,6 +27,6 @@ st.markdown("""
     </style>
     
     <div class="main-container">
-        <div class="centered-text">ㅁ</div>
+        <div class="centered-text">주제 선정 너무 싫어 진짜 이게 안하지만 진심 가난한 상상력</div>
     </div>
     """, unsafe_allow_html=True)
